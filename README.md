@@ -62,10 +62,14 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
 Developed by: Sri lakshman
+
+
 RegisterNumber: 23004121
 
 
 code:
+
+
 ![Screenshot 2023-12-30 093524](https://github.com/Lakshmansro/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139961914/8bd6939a-af08-4d46-ba3c-e50d20ea3d6e)
 
 
