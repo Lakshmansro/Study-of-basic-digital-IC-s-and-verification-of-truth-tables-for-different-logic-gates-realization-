@@ -1,4 +1,8 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+
+Name: Sri lakshman S
+RegisterNumber: 23004121
+
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -61,10 +65,7 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
-Developed by: Sri lakshman
 
-
-RegisterNumber: 212223240159
 
 
 code:
