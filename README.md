@@ -64,7 +64,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: Sri lakshman
 
 
-RegisterNumber: 23004121
+RegisterNumber: 212223240159
 
 
 code:
@@ -91,4 +91,4 @@ RTL realization Output:
 
 
 Result:
-Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+Thus the different digital IC’s are studied and the truth table for different logic gates are  verified.
